@@ -57,7 +57,7 @@
 .BROVIK:hover {
     text-shadow: 5px 5px 5px rgba(255, 87, 51, 0.7);
     border: 2px solid #ff5733;
-    filter: blur(0.01em);
+    filter: blur(0.1em);
 }
 
 .KAIA:hover {
