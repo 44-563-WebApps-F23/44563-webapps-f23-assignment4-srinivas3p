@@ -2,34 +2,35 @@
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: black;
-  }
-  
-  .direction {
+}
+
+.direction {
     font-family: Times New Roman, serif;
     font-size: 18px;
     color: black;
     background-color: lightgoldenrodyellow;
-  }
-  .name{
+}
+
+.name {
     color: aquamarine;
-  }
-  
-  .direction:hover {
+}
+
+.direction:hover {
     background-color: #555;
     color: white;
-  }
-  
-  .BROVIK {
+}
+
+.BROVIK {
     color: #ff5733;
-  }
-  
-  .KAIA {
+}
+
+.KAIA {
     color: #3498db;
-  }
-  
-  .RAGNAR {
+}
+
+.RAGNAR {
     color: #27ae60;
-  }
+}
 
 .ibsen-table {
     width: 80%;
@@ -38,7 +39,8 @@
     margin: 5px;
 }
 
-.ibsen-table th, .ibsen-table td {
+.ibsen-table th,
+.ibsen-table td {
     border: 2px solid #000;
     padding: 10px;
     text-align: center;
@@ -51,30 +53,62 @@
 .ibsen-table tbody tr:nth-child(odd) {
     background-color: green;
 }
+
 .ibsen-table tbody tr:nth-child(even) {
     background-color: yellow;
 }
+
 .BROVIK:hover {
-    text-shadow: 1px 2px #ff5733; 
+    text-shadow: 1px 2px #ff5733;
     border: 2px solid #ff5733;
     filter: blur(0.1em);
-    
+
 
 }
+
 .KAIA:hover {
-    text-shadow: 1px 2px #ff5733; 
+    text-shadow: 1px 2px #ff5733;
     border: 2px solid #ff5733;
     filter: blur(0.1em);
 
 }
+
 .RAGNAR:hover {
-    text-shadow: 1px 2px  #ff5733; 
+    text-shadow: 1px 2px #ff5733;
     border: 2px solid #ff5733;
     filter: blur(0.1em);
 
 }
 
+.name {
+    color: yellow;
+}
 
+a:hover {
+    color: yellow;
+    font-family: sans-serif;
+    font-size: medium;
+    background-color: #3498db;
+}
 
+.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 
-  
+ul.navbar-horizontal li {
+    float: left;
+    color: green;
+    background-color: ghostwhite;
+}
+
+ul.navbar-horizontal a {
+    display: block;
+    padding: 8px
+}
+
+ul.navbar-horizontal a:hover {
+    background-color: #555;
+    color: ghostwhite;
+}
