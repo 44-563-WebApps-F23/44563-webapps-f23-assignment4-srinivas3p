@@ -54,6 +54,19 @@
 .ibsen-table tbody tr:nth-child(even) {
     background-color: yellow;
 }
+.BROVIK:hover {
+    text-shadow: 2px 2px 4px #ff5733; 
+    border: 2px solid #ff5733;
+}
+.KAIA:hover {
+    text-shadow: 2px 2px 4px #ff5733; 
+    border: 2px solid #ff5733;
+}
+.RAGNAR:hover {
+    text-shadow: 2px 2px 4px #ff5733; 
+    border: 2px solid #ff5733;
+}
+
 
 
 
