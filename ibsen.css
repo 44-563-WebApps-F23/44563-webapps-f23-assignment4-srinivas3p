@@ -33,7 +33,7 @@
 
 .ibsen-table {
     width: 80%;
-    border-collapse: collapse;
+    border: 10px solid yellow;
     padding: 25px;
     margin: 5px;
 }
