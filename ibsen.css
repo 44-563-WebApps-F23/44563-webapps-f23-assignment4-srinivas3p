@@ -57,14 +57,17 @@
 .BROVIK:hover {
     text-shadow: 2px 2px 4px #ff5733; 
     border: 2px solid #ff5733;
+    filter: blur(1px);
 }
 .KAIA:hover {
     text-shadow: 2px 2px 4px #ff5733; 
     border: 2px solid #ff5733;
+    filter: blur(1px);
 }
 .RAGNAR:hover {
     text-shadow: 2px 2px 4px #ff5733; 
     border: 2px solid #ff5733;
+    filter: blur(1px);
 }
 
 
