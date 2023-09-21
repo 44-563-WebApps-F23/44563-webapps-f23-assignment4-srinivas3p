@@ -30,7 +30,15 @@
   .RAGNAR {
     color: #27ae60;
   }
-  
+.ibsen-table{
+    border: 15px solid orange;
+    color: bisque;
+    text-align: center;
+    margin: 5px;
+    padding: 30px;
+}
+
+
 
 
   
