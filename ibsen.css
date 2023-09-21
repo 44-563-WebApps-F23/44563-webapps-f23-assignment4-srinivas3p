@@ -55,11 +55,10 @@
     background-color: yellow;
 }
 .BROVIK:hover {
-    text-shadow: 2px 2px 4px #ff5733; 
+    text-shadow: 2px 2px 4px rgba(255, 87, 51, 0.7);
     border: 2px solid #ff5733;
-    box-shadow: 10px 10px 5px blue;
-
 }
+
 .KAIA:hover {
     text-shadow: 2px 2px 4px #ff5733; 
     border: 2px solid #ff5733;
