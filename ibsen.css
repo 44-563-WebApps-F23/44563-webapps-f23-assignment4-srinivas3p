@@ -55,21 +55,21 @@
     background-color: yellow;
 }
 .BROVIK:hover {
-    text-shadow: 5px 5px 5px rgba(255, 87, 51, 0.7);
+    text-shadow: 8px 8px 8px rgba(255, 87, 51, 0.7);
     border: 2px solid #ff5733;
     filter: blur(0.1em);
 }
 
 .KAIA:hover {
-    text-shadow: 2px 2px 4px #ff5733; 
+    text-shadow: 8px 8px 8px rgba(255, 87, 51, 0.7);
     border: 2px solid #ff5733;
-    box-shadow: 10px 10px 5px blue;
+    filter: blur(0.1em);
 
 }
 .RAGNAR:hover {
-    text-shadow: 2px 2px 4px #ff5733; 
+    text-shadow: 8px 8px 8px rgba(255, 87, 51, 0.7);
     border: 2px solid #ff5733;
-    box-shadow: 15px 15px 10px blue;
+    filter: blur(0.1em);
 
 }
 
