@@ -52,7 +52,7 @@
     background-color: green;
 }
 .ibsen-table tbody tr:nth-child(even) {
-    background-color: green;
+    background-color: yellow;
 }
 
 
