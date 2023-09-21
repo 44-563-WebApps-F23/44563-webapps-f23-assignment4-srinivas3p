@@ -8,8 +8,10 @@
     font-family: Times New Roman, serif;
     font-size: 18px;
     color: black;
-    background-color: #f2f2f2;
-    transition: background-color 0.3s, color 0.3s;
+    background-color: blue;
+  }
+  .name{
+    color: aquamarine;
   }
   
   .direction:hover {
